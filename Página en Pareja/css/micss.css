@@ -18,3 +18,23 @@ H3{
 	color: #C54799;
 	font-family: cursive;
 }
+button{
+	border-width: medium;
+	border-color: black;
+	color: white;
+	font-family: cursive;
+	background:	black; 
+}
+fieldset{
+	border-width: medium;
+	border-color: #F16F6F;
+	width: 60%;
+}	
+label{
+	color: #C54799;
+	font-family: fantasy;
+}
+legend{
+	color: #05A7A7;
+	font-family: fantasy;
+}
