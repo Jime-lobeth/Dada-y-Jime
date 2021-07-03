@@ -14,7 +14,7 @@ p{
 	font-style: large;
 	color: #82A9E9;
 }
-H3{
+h3{
 	color: #C54799;
 	font-family: cursive;
 }
@@ -37,4 +37,17 @@ label{
 legend{
 	color: #05A7A7;
 	font-family: fantasy;
+}
+table{
+	border: 3px solid;
+	width: 50%;
+	border-color: #F16F6F;
+
+}
+td{
+	font-family: fantasy;
+	padding: 0.3em;
+	border: 3px solid;
+	border-color: #F16F6F;
+	color: #8BC753
 }
